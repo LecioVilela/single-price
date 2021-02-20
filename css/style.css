@@ -19,10 +19,14 @@ body {
 
 .title {
     color: hsl(179, 62%, 43%);
+    font-weight: 700px;
+    
 }
 
 .subtitle {
     color: hsl(71, 73%, 54%);
+    font-weight: 700px;
+    
 }
 
 .description {
@@ -46,11 +50,15 @@ body {
     color: #fff;
     font-weight: 600;
     font-size: 35px;
+    
 }
 
 .subscription-info {
     color: #fff;
     opacity: 0.4;
+    margin-left: 10px;
+    display: inline;
+    
 }
 
 .access {
@@ -63,10 +71,12 @@ body {
     height: 64px;
     width: 100%;
     border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 .about {
-    background-color: hsl(218, 22%, 67%);
+    background-color: hsl(187, 48%, 63%);
     padding: 25px;
     flex: 1;
     border: none;
