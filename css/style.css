@@ -6,6 +6,10 @@ body {
 .card-container {
     width: 800px;
     box-shadow:  0 0 1px #000000;
+    border: 10px solid;
+    border-radius: 30px;
+    
+    
 }
 
 .top {
@@ -61,11 +65,13 @@ body {
     opacity: 0.4;
     margin-left: 10px;
     display: inline;
+    font-weight: 700;
     
 }
 
 .access {
     color: #fff;
+    font-weight: 700;
 }
 
 .submit {
